@@ -1,2 +1,3 @@
 # PID-controller-avr
-A simple implementation of an PID controller in an AVR microcontroller
+A simple and quick implementation of an PID controller in an AVR microcontroller using the [Wiring framework](http://wiring.org.co/)
+
